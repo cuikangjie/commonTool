@@ -12,6 +12,8 @@
 
 
 ```js
+import MapOverLay from './MapOverLay'
+
 let point = new BMap.Point(120.74037,31.27045)
 
 let myCompOverlay = new MapOverLay({

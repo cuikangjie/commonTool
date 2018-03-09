@@ -48,6 +48,7 @@ map.addOverlay(myCompOverlay);
 ```
 ### option
 
+
 | name       | type              |  default     | required |
 | --------   | : -----           | :---         | : -----  |
 | divClass   | string            | map_info_tip | n        |
